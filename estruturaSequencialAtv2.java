@@ -15,5 +15,7 @@ public class estruturaSequencialAtv2 {
         raio = scanner.nextDouble();
         area = pi*(raio*raio);
         System.out.printf("A AREA DO CIRCULO EQUIVALE A %.4f",area);
+
+        scanner.close();
     }
 }
