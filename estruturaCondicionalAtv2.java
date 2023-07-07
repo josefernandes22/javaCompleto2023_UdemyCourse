@@ -10,7 +10,6 @@ public class estruturaCondicionalAtv2 {
         int numero;
         System.out.println("DIGITE UM NUMERO:");
         numero = scanner.nextInt();
-
         if ((numero%2)==0){
             System.out.printf("%d É PAR !!!",numero);
         } else {
