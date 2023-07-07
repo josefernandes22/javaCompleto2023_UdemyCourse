@@ -27,5 +27,6 @@ public class estruturaSequencialAtv5 {
 
         valorFinal = valorFinalPedido1+valorFinalPedido2;
         System.out.printf("VALOR FINAL A PAGAR = %.2f",valorFinal);
+
     }
 }
